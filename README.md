@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Babel Starter Kit
 
 [![NPM version](http://img.shields.io/npm/v/generator-javascript.svg?style=flat-square)](https://www.npmjs.com/package/generator-javascript)
@@ -125,3 +126,11 @@ license.
 
 ---
 Made with ♥ by Konstantin Tarkus ([@koistya](https://twitter.com/koistya)) and [contributors](https://github.com/kriasoft/babel-starter-kit/graphs/contributors)
+=======
+# sscopes
+An implementation of [Structured Scopes](https://github.com/ahopkins/structured-scope) in Javascript
+
+----
+
+This is a holding repository for a package to be built once the [specification](https://github.com/ahopkins/structured-scope) is complete.
+>>>>>>> eb28a2a78e79887cdea762a7ea6ce4c6803e48b2
